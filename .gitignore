@@ -1,0 +1,28 @@
+# Secrets
+.env
+credentials.json
+token.json
+
+# Temp workspace
+.tmp/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated artifacts (run python main.py to regenerate)
+output/dashboard_data.json
+
+# Dashboard build
+dashboard/node_modules/
+dashboard/.next/
+dashboard/.env*.local
+
+# Tools
+.omc/
+
+# OS
+.DS_Store
+Thumbs.db

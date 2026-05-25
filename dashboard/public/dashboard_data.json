@@ -1,0 +1,449 @@
+{
+  "generated_at": "2026-05-25 18:21",
+  "analysis_period": {
+    "start": "2026-05-01",
+    "end": "2026-05-30"
+  },
+  "summary": {
+    "total_products": 10,
+    "analysis_days": 30,
+    "total_sales_qty": 4399,
+    "total_revenue": 195015300,
+    "anomaly_count": 12,
+    "estimated_daily_loss": 1633277
+  },
+  "daily_sales": [
+    {
+      "date": "2026-05-01",
+      "qty": 170,
+      "revenue": 3301400
+    },
+    {
+      "date": "2026-05-02",
+      "qty": 174,
+      "revenue": 2969900
+    },
+    {
+      "date": "2026-05-03",
+      "qty": 173,
+      "revenue": 3161300
+    },
+    {
+      "date": "2026-05-04",
+      "qty": 175,
+      "revenue": 3462800
+    },
+    {
+      "date": "2026-05-05",
+      "qty": 143,
+      "revenue": 3110600
+    },
+    {
+      "date": "2026-05-06",
+      "qty": 137,
+      "revenue": 2859800
+    },
+    {
+      "date": "2026-05-07",
+      "qty": 142,
+      "revenue": 2930700
+    },
+    {
+      "date": "2026-05-08",
+      "qty": 148,
+      "revenue": 3055700
+    },
+    {
+      "date": "2026-05-09",
+      "qty": 124,
+      "revenue": 3209100
+    },
+    {
+      "date": "2026-05-10",
+      "qty": 127,
+      "revenue": 2772700
+    },
+    {
+      "date": "2026-05-11",
+      "qty": 141,
+      "revenue": 7306100
+    },
+    {
+      "date": "2026-05-12",
+      "qty": 159,
+      "revenue": 9737800
+    },
+    {
+      "date": "2026-05-13",
+      "qty": 124,
+      "revenue": 6311200
+    },
+    {
+      "date": "2026-05-14",
+      "qty": 102,
+      "revenue": 6253700
+    },
+    {
+      "date": "2026-05-15",
+      "qty": 135,
+      "revenue": 7128300
+    },
+    {
+      "date": "2026-05-16",
+      "qty": 235,
+      "revenue": 13260700
+    },
+    {
+      "date": "2026-05-17",
+      "qty": 170,
+      "revenue": 8617500
+    },
+    {
+      "date": "2026-05-18",
+      "qty": 109,
+      "revenue": 6971000
+    },
+    {
+      "date": "2026-05-19",
+      "qty": 122,
+      "revenue": 7892100
+    },
+    {
+      "date": "2026-05-20",
+      "qty": 119,
+      "revenue": 6748100
+    },
+    {
+      "date": "2026-05-21",
+      "qty": 123,
+      "revenue": 6755400
+    },
+    {
+      "date": "2026-05-22",
+      "qty": 111,
+      "revenue": 7252200
+    },
+    {
+      "date": "2026-05-23",
+      "qty": 259,
+      "revenue": 13652900
+    },
+    {
+      "date": "2026-05-24",
+      "qty": 248,
+      "revenue": 12824200
+    },
+    {
+      "date": "2026-05-25",
+      "qty": 141,
+      "revenue": 9207800
+    },
+    {
+      "date": "2026-05-26",
+      "qty": 128,
+      "revenue": 8234900
+    },
+    {
+      "date": "2026-05-27",
+      "qty": 122,
+      "revenue": 6272500
+    },
+    {
+      "date": "2026-05-28",
+      "qty": 105,
+      "revenue": 6874200
+    },
+    {
+      "date": "2026-05-29",
+      "qty": 126,
+      "revenue": 6953200
+    },
+    {
+      "date": "2026-05-30",
+      "qty": 107,
+      "revenue": 5927500
+    }
+  ],
+  "category_sales": [
+    {
+      "category": "전자기기",
+      "qty": 2202,
+      "revenue": 177073200
+    },
+    {
+      "category": "뷰티",
+      "qty": 527,
+      "revenue": 7780300
+    },
+    {
+      "category": "스포츠",
+      "qty": 208,
+      "revenue": 7467200
+    },
+    {
+      "category": "식품",
+      "qty": 1462,
+      "revenue": 2694600
+    },
+    {
+      "category": "생활용품",
+      "qty": 0,
+      "revenue": 0
+    }
+  ],
+  "region_sales": [
+    {
+      "region": "대구",
+      "qty": 967,
+      "revenue": 138236700
+    },
+    {
+      "region": "경기",
+      "qty": 1109,
+      "revenue": 37760100
+    },
+    {
+      "region": "서울",
+      "qty": 643,
+      "revenue": 14383700
+    },
+    {
+      "region": "부산",
+      "qty": 1462,
+      "revenue": 2694600
+    },
+    {
+      "region": "인천",
+      "qty": 218,
+      "revenue": 1940200
+    }
+  ],
+  "stock_status": [
+    {
+      "product_id": "P002",
+      "product_name": "블루투스이어폰",
+      "category": "전자기기",
+      "stock_qty": 0,
+      "status": "위험"
+    },
+    {
+      "product_id": "P004",
+      "product_name": "단백질바",
+      "category": "식품",
+      "stock_qty": 0,
+      "status": "위험"
+    },
+    {
+      "product_id": "P006",
+      "product_name": "요가매트",
+      "category": "스포츠",
+      "stock_qty": 2,
+      "status": "위험"
+    },
+    {
+      "product_id": "P001",
+      "product_name": "무선마우스",
+      "category": "전자기기",
+      "stock_qty": 15,
+      "status": "위험"
+    },
+    {
+      "product_id": "P005",
+      "product_name": "노트북파우치",
+      "category": "전자기기",
+      "stock_qty": 77,
+      "status": "정상"
+    },
+    {
+      "product_id": "P010",
+      "product_name": "핸드크림",
+      "category": "뷰티",
+      "stock_qty": 82,
+      "status": "정상"
+    },
+    {
+      "product_id": "P008",
+      "product_name": "에너지드링크",
+      "category": "식품",
+      "stock_qty": 128,
+      "status": "정상"
+    },
+    {
+      "product_id": "P003",
+      "product_name": "텀블러",
+      "category": "생활용품",
+      "stock_qty": 200,
+      "status": "정상"
+    },
+    {
+      "product_id": "P007",
+      "product_name": "립스틱",
+      "category": "뷰티",
+      "stock_qty": 291,
+      "status": "정상"
+    },
+    {
+      "product_id": "P009",
+      "product_name": "스마트워치",
+      "category": "전자기기",
+      "stock_qty": 316,
+      "status": "정상"
+    }
+  ],
+  "anomalies": [
+    {
+      "date": "2026-05-01",
+      "product_id": "P004",
+      "product_name": "단백질바",
+      "category": "식품",
+      "anomaly_type": "sales_spike",
+      "anomaly_label": "판매 급증",
+      "value": 28,
+      "detail": "판매 급증: 28개 판매 (평균 3.0개, z=3.06)",
+      "estimated_lost_sales": 0
+    },
+    {
+      "date": "2026-05-02",
+      "product_id": "P004",
+      "product_name": "단백질바",
+      "category": "식품",
+      "anomaly_type": "sales_spike",
+      "anomaly_label": "판매 급증",
+      "value": 27,
+      "detail": "판매 급증: 27개 판매 (평균 3.0개, z=2.94)",
+      "estimated_lost_sales": 0
+    },
+    {
+      "date": "2026-05-03",
+      "product_id": "P004",
+      "product_name": "단백질바",
+      "category": "식품",
+      "anomaly_type": "sales_spike",
+      "anomaly_label": "판매 급증",
+      "value": 26,
+      "detail": "판매 급증: 26개 판매 (평균 3.0개, z=2.82)",
+      "estimated_lost_sales": 0
+    },
+    {
+      "date": "2026-05-16",
+      "product_id": "P002",
+      "product_name": "블루투스이어폰",
+      "category": "전자기기",
+      "anomaly_type": "sales_spike",
+      "anomaly_label": "판매 급증",
+      "value": 124,
+      "detail": "판매 급증: 124개 판매 (평균 26.7개, z=2.56)",
+      "estimated_lost_sales": 0
+    },
+    {
+      "date": "2026-05-23",
+      "product_id": "P002",
+      "product_name": "블루투스이어폰",
+      "category": "전자기기",
+      "anomaly_type": "sales_spike",
+      "anomaly_label": "판매 급증",
+      "value": 146,
+      "detail": "판매 급증: 146개 판매 (평균 26.7개, z=3.14)",
+      "estimated_lost_sales": 0
+    },
+    {
+      "date": "2026-05-24",
+      "product_id": "P002",
+      "product_name": "블루투스이어폰",
+      "category": "전자기기",
+      "anomaly_type": "sales_spike",
+      "anomaly_label": "판매 급증",
+      "value": 129,
+      "detail": "판매 급증: 129개 판매 (평균 26.7개, z=2.69)",
+      "estimated_lost_sales": 0
+    },
+    {
+      "date": "2026-05-30",
+      "product_id": "P001",
+      "product_name": "무선마우스",
+      "category": "전자기기",
+      "anomaly_type": "stockout_risk",
+      "anomaly_label": "재고 부족 위험",
+      "value": 15,
+      "detail": "재고 위험: 현재 15개 (1.0일치) / 평균 14.5개/일 판매 / 예상 손실 230,550원/일",
+      "estimated_lost_sales": 230550
+    },
+    {
+      "date": "2026-05-30",
+      "product_id": "P002",
+      "product_name": "블루투스이어폰",
+      "category": "전자기기",
+      "anomaly_type": "out_of_stock",
+      "anomaly_label": "재고 소진 (품절)",
+      "value": 0,
+      "detail": "재고 소진: 현재 0개 / 평균 26.7개/일 판매 / 예상 손실 1,064,000원/일",
+      "estimated_lost_sales": 1064000
+    },
+    {
+      "date": "2026-05-30",
+      "product_id": "P004",
+      "product_name": "단백질바",
+      "category": "식품",
+      "anomaly_type": "out_of_stock",
+      "anomaly_label": "재고 소진 (품절)",
+      "value": 0,
+      "detail": "재고 소진: 현재 0개 / 평균 3.0개/일 판매 / 예상 손실 7,500원/일",
+      "estimated_lost_sales": 7500
+    },
+    {
+      "date": "2026-05-30",
+      "product_id": "P006",
+      "product_name": "요가매트",
+      "category": "스포츠",
+      "anomaly_type": "stockout_risk",
+      "anomaly_label": "재고 부족 위험",
+      "value": 2,
+      "detail": "재고 위험: 현재 2개 (0.3일치) / 평균 6.9개/일 판매 / 예상 손실 248,907원/일",
+      "estimated_lost_sales": 248907
+    },
+    {
+      "date": "2026-05-30",
+      "product_id": "P008",
+      "product_name": "에너지드링크",
+      "category": "식품",
+      "anomaly_type": "stockout_risk",
+      "anomaly_label": "재고 부족 위험",
+      "value": 128,
+      "detail": "재고 위험: 현재 128개 (2.8일치) / 평균 45.7개/일 판매 / 예상 손실 82,320원/일",
+      "estimated_lost_sales": 82320
+    },
+    {
+      "date": "2026-05-30",
+      "product_id": "P003",
+      "product_name": "텀블러",
+      "category": "생활용품",
+      "anomaly_type": "no_sales_with_stock",
+      "anomaly_label": "재고있음+판매없음",
+      "value": 200,
+      "detail": "판매 0, 재고 200개 보유 / 이 상품 평균 판매량 0.0개/일",
+      "estimated_lost_sales": 0
+    }
+  ],
+  "anomaly_type_counts": [
+    {
+      "type": "sales_spike",
+      "label": "판매 급증",
+      "count": 6
+    },
+    {
+      "type": "stockout_risk",
+      "label": "재고 부족 위험",
+      "count": 3
+    },
+    {
+      "type": "out_of_stock",
+      "label": "재고 소진 (품절)",
+      "count": 2
+    },
+    {
+      "type": "no_sales_with_stock",
+      "label": "재고있음+판매없음",
+      "count": 1
+    }
+  ]
+}
