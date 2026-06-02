@@ -32,12 +32,21 @@ export default function CSVUpload({ onSuccess }: { onSuccess: () => void }) {
 
   return (
     <form onSubmit={upload} className="space-y-3">
-      <p className="text-sm text-gray-500">
-        CSV 컬럼 순서:{" "}
-        <code className="bg-gray-100 px-1.5 py-0.5 rounded text-xs">
-          date, product_id, sales_qty, stock_qty
-        </code>
-      </p>
+      <div className="flex items-center justify-between">
+        <p className="text-sm text-gray-500">
+          CSV 컬럼 순서:{" "}
+          <code className="bg-gray-100 px-1.5 py-0.5 rounded text-xs">
+            date, product_id, sales_qty, stock_qty
+          </code>
+        </p>
+        <a
+          href="/csv_template.csv"
+          download="csv_template.csv"
+          className="text-xs text-slate-600 underline underline-offset-2 hover:text-slate-900 whitespace-nowrap ml-3"
+        >
+          양식 다운로드
+        </a>
+      </div>
       <input
         ref={inputRef}
         type="file"
